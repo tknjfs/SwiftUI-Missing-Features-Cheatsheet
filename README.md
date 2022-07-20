@@ -18,6 +18,6 @@ Separators customisation
 ### List
 Separators customisation
 * Alternative List styling using [listStyle(_:)](https://developer.apple.com/documentation/swiftui/view/liststyle(_:)) 
-* [Alternative View](https://stackoverflow.com/a/58474518)
+* [Custom List](https://stackoverflow.com/a/58474518)
 * [Insets tweak](https://stackoverflow.com/a/64350901)
 * Third party Library: [Introspect](https://github.com/siteline/SwiftUI-Introspect)
